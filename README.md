@@ -1,6 +1,5 @@
 # Hi there, I'm Rumbahuh 👋
 **`Robotics Engineering Student`**
-
 ---
 
 ## Technologies I Work With
@@ -34,12 +33,10 @@
 ![Git](https://img.shields.io/badge/Git-Version_Control-red?style=flat-square&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-Documentation-brightgreen?style=flat-square&logo=latex&logoColor=white)
 
----
+## Automation & Hardware System Evaluation
 
-## Industrial Automation Experience
-
-* **Siemens TIA Portal Prerequisite Training** — Successfully completed foundational training modules covering PLC logic and automation architectures to clear safety criteria for industrial laboratory access.
-* **Validated Workstation Deployment** — Developed, tested, and deployed functional automation sequences on shop-floor equipment under rigorous academic review and evaluation.
+* **Deterministic Logic Control** — Foundational training in Siemens TIA Portal architectures, focusing on state-machine design, signal synchronization, and sequential control loops.
+* **Kinematic Trajectory Study** — Handled execution on industrial platforms to analyze how physical multi-axis movements match calculated theoretical models.
 
 <table border="0">
   <tr>
@@ -48,11 +45,11 @@
   </tr>
   <tr>
     <td valign="top">
-      <p>Programmed and operated a physical UR5 cobot arm using Polyscope and RobotStudio logic environments for kinematic trajectory planning.</p>
+      <p>Utilized Polyscope and RobotStudio environments to analyze spatial coordinates, joint telemetry, and path planning during multi-axis execution.</p>
       <img src="https://github.com/user-attachments/assets/39f58d7b-4d6e-4b49-9cfc-da4b90e4fc31" width="100%" style="border-radius: 6px;" alt="UR5 Workstation"/>
     </td>
     <td valign="top">
-      <p>Configured electro-pneumatic handling, hardware sequencing, and virtual commissioning loops via Siemens TIA Portal and Factory I/O.</p>
+      <p>Configured electro-pneumatic sequencing and commissioning loops via TIA Portal to study closed-loop feedback and hardware response times.</p>
       <img src="https://github.com/user-attachments/assets/327c4835-0f75-4cb9-82fd-e52815ab2f3c" width="100%" style="border-radius: 6px;" alt="Festo Workstation"/>
     </td>
   </tr>
