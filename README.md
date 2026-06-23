@@ -40,8 +40,8 @@
 
 <table border="0">
   <tr>
-    <th width="50%">🤖 Universal Robots UR5</th>
-    <th width="50%">⚙️ Festo Didactic Estación de Distribución</th>
+    <th width="50%"> Universal Robots UR5</th>
+    <th width="50%"> Festo Didactic Estación de Distribución</th>
   </tr>
   <tr>
     <td valign="top">
@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Featured Robotics Projects
+## Featured Robotics Projects
 
 * **[SR_Manipulator_V2](https://github.com/rumbahuh/SR_Manipulator_V2)** - Mobile manipulation system featuring a SCARA arm and differential base, with custom URDFs and Blender-generated meshes, integrated with MoveIt 2 for telemetry analysis of complex kinematics.
 * **[smart-robot-car-v4](https://gitlab.eif.urjc.es/madmatq/smart-robot-car-v.4)** - Autonomous navigation car with real-time obstacle avoidance and path planning.
