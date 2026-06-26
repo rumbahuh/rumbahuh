@@ -1,6 +1,5 @@
-# Hi! Soy Rebe,
+## Rebe
 **`Robotics Engineering Student`**
----
 
 ## Technologies I Work With
 
@@ -62,3 +61,11 @@
 * **[SR_Manipulator_V2](https://github.com/rumbahuh/SR_Manipulator_V2)** - Mobile manipulation system featuring a SCARA arm and differential base, with custom URDFs and Blender-generated meshes, integrated with MoveIt 2 for telemetry analysis of complex kinematics.
 * **[smart-robot-car-v4](https://gitlab.eif.urjc.es/madmatq/smart-robot-car-v.4)** - Autonomous navigation car with real-time obstacle avoidance and path planning.
 * **[retro-stray-machine](https://github.com/rumbahuh/retro-stray-machine)** - Vending machine control logic using Arduino, sensors, and actuators featuring a fully non-blocking asynchronous circuit design.
+
+## Languages
+
+Spanish — Native  
+English — B2 (professional working proficiency)  
+French — B2 (Bachibac; strong academic reading proficiency in STEM fields)  
+German — Learning  
+Chinese — Basic coursework completed
