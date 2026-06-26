@@ -64,8 +64,8 @@
 
 ## Languages
 
-Spanish — Native  
-English — B2 (professional working proficiency)  
-French — B2 (Bachibac; strong academic reading proficiency in STEM fields)  
-German — Learning  
-Chinese — Basic coursework completed
+* Spanish — Native  
+* English — B2 (professional working proficiency)  
+* French — B2 (Bachibac; strong academic reading proficiency in STEM fields)  
+* German — Learning  
+* Chinese — Basic coursework completed
